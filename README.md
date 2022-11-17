@@ -24,7 +24,8 @@ The model was made using [Tensorflow](https://www.tensorflow.org/), an excellent
 * Many awesome functions
 * Use of the [Keras](https://www.tensorflow.org/api_docs/python/tf/keras/) model
 * A Tensorboard which visualizes the model records
-* Accuracy of the best 
+* Accuracy of the best model
+* Practical example of Covid detection using X-rays  
 
 ## How to clone the project
 
